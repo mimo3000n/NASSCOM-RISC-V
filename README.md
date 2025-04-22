@@ -1,4 +1,4 @@
-# NASSCOM-RISC-V
+# NASSCOM-RISC-V Workshop
 NASSCOM RISC-V Based MYTH Repo [16 April - 25 April 2025]
 
 # Day 1
@@ -150,6 +150,52 @@ next instruction is "lui a0, 0x21" where register a0 is loaded with hex 21 follw
 next is "addi sp, sp, -16" wich mean that sp (stack pointer) will be subtracted be 16, hex 10.
 
 ![image](https://github.com/user-attachments/assets/fcb68874-2c46-4f30-8bb3-4b2eaf437dde)
+
+signed and unsigned doubleworld
+
+C-Program showing higthes unsigned nuber, compilation and run via spike
+
+```sh
+vsduser@vsduser-VirtualBox:~/Day_1$ more unsignedHighest.c
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+	unsigned long long int max = (unsigned long long int) (pow(2,64) - 1);
+	printf("higest number represented by unsigned long long int ist %llu\n", max);
+	return 0;
+}
+vsduser@vsduser-VirtualBox:~/Day_1$ riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o unsignedHighest.o unsignedHighest.c 
+vsduser@vsduser-VirtualBox:~/Day_1$ spike pk unsignedHighest.o
+bbl loader
+higest number represented by unsigned long long int ist 18446744073709551615
+vsduser@vsduser-VirtualBox:~/Day_1$ 
+```
+![image](https://github.com/user-attachments/assets/02165014-87d3-4951-96af-746b4492f8cd)
+
+LAB: create C-Program showing higthes and lowest number of a signend 64 bit integer.
+
+```sh
+vsduser@vsduser-VirtualBox:~/Day_1$ more signedHighest.c
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+	long long int max = (long long int) (pow(2,63) - 1);
+	long long int min = (long long int) (pow(2,63) * -1);
+	printf("higthest number represent by long long int is %lld\n", max);
+	printf("lowest number represtend by long int is %lld\n", min);
+	return 0;
+}
+vsduser@vsduser-VirtualBox:~/Day_1$ riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o signedHighest.o signedHighest.c 
+vsduser@vsduser-VirtualBox:~/Day_1$ spike pk signedHighest.o
+bbl loader
+higthest number represent by long long int is 9223372036854775807
+lowest number represtend by long int is -9223372036854775808
+vsduser@vsduser-VirtualBox:~/Day_1$
+```
+![image](https://github.com/user-attachments/assets/d05dcee1-3883-4e82-be2e-d920e1364ccd)
+
 
 </details>
 
