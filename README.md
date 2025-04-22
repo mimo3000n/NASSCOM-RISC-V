@@ -203,7 +203,57 @@ vsduser@vsduser-VirtualBox:~/Day_1$
 
 <details>
 <summary>Introduction to ABI and basic verification flow</summary>
-  
+
+In Day 2 we are takling about ABI (application binary interface) and how it can be acced via system calls from a programmer and why we have 32 register.
+
+![image](https://github.com/user-attachments/assets/79362f98-db77-4cac-9925-9b1b035f7ac9)
+
+register strucure of RISC-V 64bit
+
+![image](https://github.com/user-attachments/assets/1b7f5235-9aae-4195-bf43-56792ee51f36)
+
+due to the fact that im RISC-V opcodes register are represent be 5bit max of 32 register can be addressed
+
+![image](https://github.com/user-attachments/assets/369eee21-d8fa-43e0-9b01-653ecec5bbaf)
+
+LAB: call a asm-program "loop.s" from a C-program an pass int values back and forth calculating sum of number from 1to n:
+
+C-program 1to9_custom.c
+
+```c
+#include <stdio.h>
+
+extern int load(int x, int y);
+
+int main() {
+	int result = 0;
+	int count = 0;
+	result = load(0x0, count+1);
+	printf("Sum of numbers from i to %d is %d\n", count, result);
+}
+```
+
+Assembler program load.s
+
+```s
+.section .text
+.global load
+.type load, @function
+
+load:
+	add	a4, a0, zero	//initialize sum register a4 with 0x0
+	add	a2, a0, a1	// store count of 10 in register a2. Register a1 is loaded with 0xa (decimal 10) from main()
+	add	a3, a0, zero	// initialze intermidiate sum register a3 by 0
+loop:	add	a4, a3, a4	// incremental addition
+	addi	a3, a3, 1	// inceremten intermidiate register by 1
+	blt	a3, a2, loop	// if a3 is less than a2, branch to label named <loop>
+	add	a0, a4, zer0	// stor final result to register a0so that it can be read by main() program
+	ret
+```
+
+![image](https://github.com/user-attachments/assets/aba2eea2-13e9-46d3-9397-30d98dcdf58a)
+
+
 </details>
 
 # Day 3
