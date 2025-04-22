@@ -296,7 +296,13 @@ simulate and, or, xor
 
 ![image](https://github.com/user-attachments/assets/938f779d-57b2-4a1d-839f-8aa9b68459cd)
 
-  
+Lab Slide 14:
+
+[create 5bit vector](https://makerchip.com/sandbox/0o2fXhoqM/0P1hKXq)
+
+![image](https://github.com/user-attachments/assets/8d721029-dbe7-4c92-9bde-7ae9e93c9516)
+
+
 </details>
 
 # Day 4
