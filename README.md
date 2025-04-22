@@ -290,6 +290,12 @@ simulate an inverter
 
 ![image](https://github.com/user-attachments/assets/9199880a-7f8c-4821-af21-9fcc5fe8e6fa)
 
+simulate and, or. xor
+
+[AND OR XOR](https://makerchip.com/sandbox/0o2fXhoqM/0O7hpx3#)
+
+![image](https://github.com/user-attachments/assets/938f779d-57b2-4a1d-839f-8aa9b68459cd)
+
   
 </details>
 
