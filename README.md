@@ -275,6 +275,21 @@ run ./rv32im.sh and check output in belo screen shot
 
 <details>
 <summary>Introductio to TL-Verilog and Makerchip</summary>
+
+Lab Slide 12:
+
+load pythagoras example, arrange windows, click on $bb_sp in diagram
+
+![image](https://github.com/user-attachments/assets/fabf5553-9040-44c3-a9eb-1fafd7f905f1)
+
+Lab Slide 13:
+
+simulate an inverter
+
+[Inverter](https://makerchip.com/sandbox/0o2fXhoqM/0O7hpx3#)
+
+![image](https://github.com/user-attachments/assets/9199880a-7f8c-4821-af21-9fcc5fe8e6fa)
+
   
 </details>
 
