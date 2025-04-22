@@ -227,7 +227,7 @@ extern int load(int x, int y);
 
 int main() {
 	int result = 0;
-	int count = 0;
+	int count = 9;
 	result = load(0x0, count+1);
 	printf("Sum of numbers from i to %d is %d\n", count, result);
 }
@@ -247,11 +247,26 @@ load:
 loop:	add	a4, a3, a4	// incremental addition
 	addi	a3, a3, 1	// inceremten intermidiate register by 1
 	blt	a3, a2, loop	// if a3 is less than a2, branch to label named <loop>
-	add	a0, a4, zer0	// stor final result to register a0so that it can be read by main() program
+	add	a0, a4, zero	// stor final result to register a0so that it can be read by main() program
 	ret
 ```
 
-![image](https://github.com/user-attachments/assets/aba2eea2-13e9-46d3-9397-30d98dcdf58a)
+
+![image](https://github.com/user-attachments/assets/03010e5b-010b-4956-93fa-e0c1f891ec0c)
+
+
+
+compile both files (.c and .S) and run objectfile via spike:
+
+![image](https://github.com/user-attachments/assets/21c00170-32fe-4c46-987d-e8225d9f353d)
+
+Lab: run C-program in a RISC-V CPU written in Verilog
+
+clone github repo: **git clone https://github.com/kunalg123/riscv_workshop_collaterals.git**
+
+run ./rv32im.sh and check output in belo screen shot
+
+![image](https://github.com/user-attachments/assets/0db1d4e7-2ba6-416e-8636-c8ff9909e9d7)
 
 
 </details>
