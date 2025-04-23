@@ -302,6 +302,47 @@ Lab Slide 14:
 
 ![image](https://github.com/user-attachments/assets/8d721029-dbe7-4c92-9bde-7ae9e93c9516)
 
+Lab Slide 15:
+
+creating a simple 1bit & 8bit mux
+
+[1bit mux](https://makerchip.com/sandbox/0o2fXhoqM/0P1hKXq#)
+
+![image](https://github.com/user-attachments/assets/ed80a51c-5589-4fbc-9f43-113854b7e623)
+
+[8bit mux]()
+
+Lab Slide 16
+
+create a calculator supporting +,-,*,/
+
+[calculator](https://makerchip.com/sandbox/0o2fXhoqM/076hANr)
+
+![image](https://github.com/user-attachments/assets/2739d5f0-46b2-45db-b45b-c51d391bc0f9)
+
+Lab Slide 21
+
+create free running counter
+
+[free running counter](https://makerchip.com/sandbox/0o2fXhoqM/08qh6qD)
+
+![image](https://github.com/user-attachments/assets/176dc749-3fe0-4ad8-b8db-6dbccdae66ab)
+
+
+Lab Slide 23
+
+add to calculator a d-flipflop to store the last result
+
+[calculator with store last result](https://makerchip.com/sandbox/0o2fXhoqM/00ghGBP)
+
+![image](https://github.com/user-attachments/assets/37f54fb7-8b28-4d06-99d3-8896ab6d84fb)
+
+Lab Slide 24
+
+pipeling shown an compute pythagoras theorem
+
+
+
 
 </details>
 
