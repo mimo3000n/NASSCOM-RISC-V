@@ -377,7 +377,21 @@ Lab Slide 36
 
 ![image](https://github.com/user-attachments/assets/e7a6e3ba-6bd5-45a6-88d6-a015ea733b18)
 
+Lab Slide 41
 
+2-Cycle Calculator with validity
+
+[2_cycl_clalc_validity](https://makerchip.com/sandbox/0o2fXhoqM/0GZh1lA#)
+
+![image](https://github.com/user-attachments/assets/ce816c4f-9f47-4ad5-a970-a95056cf3517)
+
+Lab Slid 43
+
+add memory and recall function to calculator
+
+[mem_recall_calc](https://makerchip.com/sandbox/0o2fXhoqM/0KOh2wB#)
+
+![image](https://github.com/user-attachments/assets/4a24a983-2102-4671-8d9a-02e6320280e7)
 
 
 </details>
