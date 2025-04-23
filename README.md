@@ -341,6 +341,34 @@ Lab Slide 24
 
 pipeling shown an compute pythagoras theorem
 
+[pythagoras pipeline](https://makerchip.com/sandbox/0o2fXhoqM/0k5hOB0)
+
+![image](https://github.com/user-attachments/assets/6bab7782-0a6f-4ce1-96c5-1b14c5cdeec9)
+
+Lab Slide 33
+
+Fibbonaci series in pipeline
+
+[fionacci pipeline](https://makerchip.com/sandbox/0o2fXhoqM/0mwhjl3)
+
+![image](https://github.com/user-attachments/assets/e4e0ef83-eb02-4a97-8adf-e4408fe0e695)
+
+Lab Slide 34
+
+Pipeline error handler
+
+[calc error handling](https://makerchip.com/sandbox/0o2fXhoqM/0oYhrY9)
+
+![image](https://github.com/user-attachments/assets/f961d1ef-9f02-4df5-80c3-79d4f8922ac7)
+
+Lab Slide 35
+
+Counter and Calculator in a pipeline
+
+
+
+
+
 
 
 
