@@ -399,7 +399,7 @@ add memory and recall function to calculator
 # Day 4
 
 <details>
-<summary>Basic RISC-V CPU microarchitectur/summary>
+<summary>Basic RISC-V CPU microarchitectur</summary>
 
 # WORK IN PROGRESS
 
