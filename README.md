@@ -365,9 +365,17 @@ Lab Slide 35
 
 Counter and Calculator in a pipeline
 
+[calc_and_counter_in_pipeline](https://makerchip.com/sandbox/0o2fXhoqM/0r0h8ZK)
 
+![image](https://github.com/user-attachments/assets/bfd69f62-a163-499b-8b1d-e4c21ad1965e)
 
+Lab Slide 36
 
+2-Cycle Calculator
+
+[2-cycle calculator](https://makerchip.com/sandbox/0o2fXhoqM/0Bgh7mD)
+
+![image](https://github.com/user-attachments/assets/e7a6e3ba-6bd5-45a6-88d6-a015ea733b18)
 
 
 
