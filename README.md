@@ -400,12 +400,16 @@ add memory and recall function to calculator
 
 <details>
 <summary>Basic RISC-V CPU microarchitectur/summary>
-  
+
+# WORK IN PROGRESS
+
 </details>
 
 # Day 5
 
 <details>
 <summary>Compete pipliened RISC-V CPU micro architectur</summary>
-  
+
+# WORK IN PROGRESS
+
 </details>
