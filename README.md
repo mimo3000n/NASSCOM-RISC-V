@@ -385,7 +385,7 @@ Lab Slide 41
 
 ![image](https://github.com/user-attachments/assets/ce816c4f-9f47-4ad5-a970-a95056cf3517)
 
-Lab Slid 43
+Lab Slide 43
 
 add memory and recall function to calculator
 
@@ -400,6 +400,23 @@ add memory and recall function to calculator
 
 <details>
 <summary>Basic RISC-V CPU microarchitectur</summary>
+
+Lab Slide Day 4 Lab Part 1
+
+implement program counter
+
+[program counter](https://makerchip.com/sandbox/0o2fXhoqM/0P1hKmq#)
+
+![image](https://github.com/user-attachments/assets/4a5d2244-aacb-4ab5-9644-539412d461a3)
+
+Lab Slide 7
+
+Fetch instruction
+
+[fetch](https://makerchip.com/sandbox/0o2fXhoqM/0Q1hkq4#)
+
+
+
 
 # WORK IN PROGRESS
 
