@@ -483,6 +483,22 @@ Pipelining the CPU
 
 ![image](https://github.com/user-attachments/assets/bbdec698-2b46-40af-9b50-a9288123abf2)
 
+[update pc after 3-cycles](https://makerchip.com/sandbox/0o2fXhoqM/08qh6MD#)
+
+![image](https://github.com/user-attachments/assets/3cebfe08-564a-4172-a58c-fbf112004216)
+
+[3 stage pipline](https://makerchip.com/sandbox/0o2fXhoqM/0Wnh5Qo#)
+
+![image](https://github.com/user-attachments/assets/6bfa2129-de8c-4210-b2fe-ca5ac014c24e)
+
+[reg bypass](https://makerchip.com/sandbox/0o2fXhoqM/058hZzD#)
+
+![image](https://github.com/user-attachments/assets/4b21890e-04cd-4db7-bfd7-a5b63c19f2ce)
+
+
+
+
+
 
 
 
