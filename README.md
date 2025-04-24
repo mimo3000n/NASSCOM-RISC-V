@@ -415,6 +415,66 @@ Fetch instruction
 
 [fetch](https://makerchip.com/sandbox/0o2fXhoqM/0Q1hkq4#)
 
+Lab Slide 10
+
+[instrution format decode](https://makerchip.com/sandbox/0o2fXhoqM/0X6hXN5#)
+
+![image](https://github.com/user-attachments/assets/dcf55480-e884-4bdc-9800-44d9787e8b9e)
+
+Lab Slide 10
+
+[imm retrieval](https://makerchip.com/sandbox/0o2fXhoqM/0X6hXN5#)
+
+![image](https://github.com/user-attachments/assets/de6697cb-f8f3-4e18-a928-abad169e9a88)
+
+Lab Slide 11
+
+[instruction decode other fields](https://makerchip.com/sandbox/0o2fXhoqM/0Y6hLZ8#)
+
+![image](https://github.com/user-attachments/assets/1b2a83bb-309b-4ea6-b40c-f8afa786afe2)
+
+Lab Slide 12
+
+[RISC-V instruction field decode](https://makerchip.com/sandbox/0o2fXhoqM/0Z4h5RE#)
+
+![image](https://github.com/user-attachments/assets/a7a491e2-c678-4c5f-88fb-4d712814258e)
+
+Lab Slide 13
+
+[vality check and instruction decode](https://makerchip.com/sandbox/0o2fXhoqM/01jhMm7#)
+
+![image](https://github.com/user-attachments/assets/1ab9df7f-d9dc-4b46-b94d-c7377961a5af)
+
+Lab Slide 16
+
+[read register file](https://makerchip.com/sandbox/0o2fXhoqM/02RhpGg#)
+
+![image](https://github.com/user-attachments/assets/33d85ab9-7ad1-44ca-9401-7fbe7e4e7e9d)
+
+Lab Slide 13
+
+[ALU](https://makerchip.com/sandbox/0o2fXhoqM/03lhpM4#)
+
+![image](https://github.com/user-attachments/assets/b8e04e24-f830-46b4-befa-d9dea988e643)
+
+Lab Slide 22
+
+[branch](https://makerchip.com/sandbox/0o2fXhoqM/048hBWx#)
+
+![image](https://github.com/user-attachments/assets/de2ee381-e5bd-41a1-995e-24b9803e295d)
+
+Lab Slide 25
+
+[testbench](https://makerchip.com/sandbox/0o2fXhoqM/058hZKk#)
+
+![image](https://github.com/user-attachments/assets/8a02de43-b3d3-4e0d-a263-696478aaac59)
+
+
+
+
+
+
+
 
 
 
