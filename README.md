@@ -477,6 +477,15 @@ Lab Slide 25
 <details>
 <summary>Compete pipliened RISC-V CPU micro architectur</summary>
 
+Pipelining the CPU
+
+[3 cycle $valid](https://makerchip.com/sandbox/0o2fXhoqM/08qh6MD#)
+
+![image](https://github.com/user-attachments/assets/bbdec698-2b46-40af-9b50-a9288123abf2)
+
+
+
+
 # WORK IN PROGRESS
 
 </details>
