@@ -470,16 +470,6 @@ Lab Slide 25
 ![image](https://github.com/user-attachments/assets/8a02de43-b3d3-4e0d-a263-696478aaac59)
 
 
-
-
-
-
-
-
-
-
-# WORK IN PROGRESS
-
 </details>
 
 # Day 5
