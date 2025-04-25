@@ -495,13 +495,22 @@ Pipelining the CPU
 
 ![image](https://github.com/user-attachments/assets/4b21890e-04cd-4db7-bfd7-a5b63c19f2ce)
 
+[branch correction](https://makerchip.com/sandbox/0wpfLhxmq/0wjhGmk#)
 
+![image](https://github.com/user-attachments/assets/176d9a72-f71f-433d-8e9b-4fe7475b2814)
 
+[decode other instaructions](https://makerchip.com/sandbox/0wpfLhxmq/0zmhMZN#)
 
+![image](https://github.com/user-attachments/assets/993c5ca9-73a4-4de9-ac72-83eb768dcb8b)
 
+[add load and store, @4 stage](https://makerchip.com/sandbox/0wpfLhxmq/0Bgh7rE#)
 
+![image](https://github.com/user-attachments/assets/f867b9f6-fb9a-4ffe-bfce-3ade96dbd885)
 
+[final design](https://makerchip.com/sandbox/0wpfLhxmq/0Elh329#)
 
-# WORK IN PROGRESS
+![image](https://github.com/user-attachments/assets/ae737433-bdbb-4d06-b03c-7cac27b722ff)
+
+# WORK IN PROGRESS - still struggle with last lab
 
 </details>
