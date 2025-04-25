@@ -1,6 +1,8 @@
 # NASSCOM-RISC-V Workshop
 NASSCOM RISC-V Based MYTH Repo [16 April - 25 April 2025]
 
+Goal is to implement a simple RISC-V CPU using Makerchip.com.
+
 # Day 1
 <details>
 <summary>Introductio to RISC-V ISA and GNU compiler toolchain</summary>
